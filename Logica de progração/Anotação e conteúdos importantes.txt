@@ -1,0 +1,14 @@
+Fluxograma
+
+Flowgorithm:http://www.flowgorithm.org/
+
+Link portugol: http://lite.acad.univali.br/portugol/
+
+programa 
+{ 
+	funcao inicio () 
+	{
+		escreva("Olá Mundo!\n")
+	} 
+}
+
